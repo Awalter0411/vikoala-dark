@@ -3,6 +3,7 @@
 > a dark theme extension for vscode
 
 - .js/.ts
+
   ![](public/ts.png)
 
 - .vue
