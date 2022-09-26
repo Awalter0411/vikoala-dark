@@ -373,7 +373,23 @@
       }
     },
     {
-      "scope": [
+      "scope": 
+      [
+        "meta.jsx.children.tsx",
+        "meta.tag.tsx",
+        "meta.jsx.children.tsx",
+        "meta.tag.without-attributes.tsx",
+        "meta.arrow.tsx",
+        "meta.export.default.tsx",
+        "meta.embedded.block.typescriptreact",
+        "markup.fenced_code.block.markdown",
+        "text.html.markdown",
+        "punctuation.definition.tag.begin.tsx",
+        "meta.tag.without-attributes.tsx",
+        "meta.block.tsx",
+        "meta.arrow.tsx",
+        "meta.block.tsx",
+        "meta.arrow.tsx",
         "text.html.derivative"
       ],
       "settings": {
