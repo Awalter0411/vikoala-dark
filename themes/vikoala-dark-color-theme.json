@@ -283,6 +283,12 @@
     },
     {
       "scope":[
+        "comment.block.js",
+        "source.js",
+        "comment.block.documentation.js",
+        "comment.block.documentation.tsx",
+        "meta.arrow.tsx",
+        "meta.var.expr.tsx",
         "punctuation.definition.comment.tsx",
         "comment.line.double-slash.tsx",
         "comment.line.double-slash.tsx",
